@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dulilun, curretnly an assistant professor in Business School, Hong Kong University of Science and Technology.
-- 👀 I’m interested in large-scale inference, Empirical Bayes, and the interface between statistics and operations
+- 👋 Hi, I’m Dr. Lilun DU, curretnly an assistant professor at Business School, Hong Kong University of Science and Technology.
+- 👀 My research interests include in Large-Scale inference, Empirical Bayes, and the interface between Statistics and Operations Management.
 
 <!---
 dulilun/dulilun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
