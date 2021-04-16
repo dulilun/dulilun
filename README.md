@@ -15,11 +15,11 @@
 - Du, L., and Zhang, C. M., "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 2014, 1262-1311
 
 # Paper Under Review
-- {\bf Du, L.}, Guo, X., Sun, W, and Zou, C. (2020). ``False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation'', arXiv:2002.11992, submitted.
+- Du, L., Guo, X., Sun, W, and Zou, C. (2020). ``False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation'', arXiv:2002.11992, submitted.
 
-- Wang, J., {\bf Du., L.}, Zou, C., and Wu, Z. (2018). ``Dynamic tracking and screening in massive datastreams," submitted.
+- Wang, J., Du., L., Zou, C., and Wu, Z. (2018). ``Dynamic tracking and screening in massive datastreams," submitted.
 
-- {\bf Du, L.}, Li, Q., and Yu, P. (2019). ``A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand'', Submitted.
+- Du, L., Li, Q., and Yu, P. (2019). ``A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand'', Submitted.
 
 
 <!---
