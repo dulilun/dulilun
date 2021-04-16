@@ -30,7 +30,7 @@
 
 - Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2018). "Dynamic tracking and screening in massive datastreams", submitted.
 
-- **Du, L.**, Li, Q., and Yu, P. (2019). "A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand", Submitted.
+- **Du, L.**, Li, Q., and Yu, P. (2019). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
 
 <!---
