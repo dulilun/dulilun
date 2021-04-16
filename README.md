@@ -26,7 +26,7 @@
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 # Papers Under Review
-- **Du, L.**, Guo, X., Sun, W, and Zou, C. (2020). "False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation", arXiv:2002.11992, submitted.
+- **Du, L.**, Guo, X., Sun, W, and Zou, C. (2020). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://arxiv.org/abs/2002.11992#:~:text=False%20Discovery%20Rate%20Control%20Under%20General%20Dependence%20By%20Symmetrized%20Data%20Aggregation,-Lilun%20Du%2C%20Xu&text=The%20proposed%20SDA%20filter%20first,ranking%20to%20control%20the%20FDR.)", arXiv:2002.11992, submitted.
 
 - Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2018). "Dynamic tracking and screening in massive datastreams", submitted.
 
