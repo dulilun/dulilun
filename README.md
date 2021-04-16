@@ -2,7 +2,7 @@
 - Hi, I’m Dr. Lilun DU, curretnly an assistant professor at Business School, Hong Kong University of Science and Technology.
 - My research interests include in Large-Scale inference, Empirical Bayes, and the interface between Statistics and Operations Management.
 - My personal website is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
-- Email: dulilun at ust dot hk
+- Email: dulilun (at) ust (dot) hk
 
 # Bio
 - PhD 2015, The University of Wisconsin-Madison, Statistics
