@@ -19,7 +19,7 @@
 
 - Du, L., Lan, W., Luo, R., and Zhong, P. (2018). "Factor-Adjusted Multiple Testing of Correlations", Computational Statistics \& Data Analysis, 128, 34-47.
 
-- Du, L. and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference}, 194, 1-14.
+- Du, L. and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference, 194, 1-14.
 
 - Du, L. and Zhang, C. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
