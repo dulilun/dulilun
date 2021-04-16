@@ -9,7 +9,7 @@
 - B.S. 2007, Nankai University, Mathematics
 
 # Selected Publications
-- Li, Q., Yu, P. and Du, L., (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
+- Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
 - Du, L. and Hu, I. (2020), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, forthcoming.
 - Du, L. and Li, Q., "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 - Du, L., and Zhang, C. M., "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 2014, 1262-1311
