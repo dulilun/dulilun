@@ -8,7 +8,7 @@
 # Research Interests
 - Large-Scale inference
 - Empirical Bayes
-- Interface between Statistics and Operations Management.
+- Interface between Statistics and Operations Management
 
 # Bio
 - PhD 2015, The University of Wisconsin-Madison, Statistics
