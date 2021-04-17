@@ -4,7 +4,7 @@
 
 # Employmennt
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-present
-- 
+
 # Research Interests
 - Large-Scale inference
 - Empirical Bayes
