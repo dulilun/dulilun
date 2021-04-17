@@ -2,7 +2,7 @@
 - My personal website is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
 - Email: dulilun (at) ust (dot) hk
 
-# Employmennt
+# Employment
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-present
 
 # Research Interests
