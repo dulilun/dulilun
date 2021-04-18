@@ -6,7 +6,8 @@
 - PhD 2015, The University of Wisconsin-Madison, Statistics
 - M.S. 2010, Nankai University, Statistics
 - B.S. 2007, Nankai University, Mathematics
-- 
+
+
 # Employment
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-present
 
