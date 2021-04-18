@@ -2,6 +2,11 @@
 - My personal website is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
 - Email: dulilun (at) ust (dot) hk
 
+# Bio
+- PhD 2015, The University of Wisconsin-Madison, Statistics
+- M.S. 2010, Nankai University, Statistics
+- B.S. 2007, Nankai University, Mathematics
+- 
 # Employment
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-present
 
@@ -10,10 +15,6 @@
 - Empirical Bayes
 - Interface between Statistics and Operations Management
 
-# Bio
-- PhD 2015, The University of Wisconsin-Madison, Statistics
-- M.S. 2010, Nankai University, Statistics
-- B.S. 2007, Nankai University, Mathematics
 
 # Selected Publications
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
