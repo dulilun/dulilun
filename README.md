@@ -19,7 +19,7 @@
 
 # Selected Publications
 - **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://arxiv.org/abs/2002.11992#:~:text=False%20Discovery%20Rate%20Control%20Under%20General%20Dependence%20By%20Symmetrized%20Data%20Aggregation,-Lilun%20Du%2C%20Xu&text=The%20proposed%20SDA%20filter%20first,ranking%20to%20control%20the%20FDR.)", Journal of American Statistical Association, forthcoming.
-- 
+
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
 - **Du, L.** and Hu, I. (2020), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, forthcoming.
 - **Du, L.** and Li, Q., "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
