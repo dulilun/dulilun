@@ -43,7 +43,7 @@
 
 # Opennings
 
-Postdoc / research associate positions are available. Applicants with strong background in probability / statistics and specialized in random matrix theory / interacting particle systems are particularly welcomed.
+Postdoc / research associate positions are available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed.
 
 <!---
 dulilun/dulilun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
