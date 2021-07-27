@@ -41,6 +41,9 @@
 
 - **Du, L.**, Li, Q., and Yu, P. (2019). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
+# Opennings
+
+Postdoc / research associate positions are available. Applicants with strong background in probability / statistics and specialized in random matrix theory / interacting particle systems are particularly welcomed.
 
 <!---
 dulilun/dulilun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
