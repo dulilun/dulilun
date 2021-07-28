@@ -34,7 +34,7 @@
 
 - **Du, L.**, and Zhang, C. M., "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 2014, 1262-1311
 
-- **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
+1. **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 # Papers Under Review
 - Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2018). "[Dynamic Tracking and Screening in Massive Datastreams](https://drive.google.com/file/d/1xDBrua4nPbdp-TVU1zKy_Z4vCYQ-25x_/view)", submitted.
