@@ -22,7 +22,7 @@
 
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
 - **Du, L.** and Hu, I. (2020), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, forthcoming.
-- **Du, L.** and Li, Q. (2020), "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
+- **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
 - Lan, W. and **Du, L.** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
 
@@ -32,7 +32,7 @@
 
 - **Du, L.** and Zhang, C. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
-- **Du, L.**, and Zhang, C. M., "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 2014, 1262-1311
+- **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 2014, 1262-1311
 
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
