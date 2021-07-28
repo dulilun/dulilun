@@ -22,7 +22,7 @@
 
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
 - **Du, L.** and Hu, I. (2020), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, forthcoming.
-- **Du, L.** and Li, Q., "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
+- **Du, L.** and Li, Q. (2020), "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
 - Lan, W. and **Du, L.** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
 
