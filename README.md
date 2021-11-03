@@ -37,7 +37,7 @@
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 # Papers Under Review
-- Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2021). "Dynamic Tracking and Screening in Massive Datastreams", submitted.
+- Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
 - **Du, L.**, Li, Q., and Yu, P. (2020). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
