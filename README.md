@@ -19,7 +19,7 @@
 
 # Selected Publications on Statistics
 - Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
-- 
+
 - **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
 
@@ -42,7 +42,7 @@
 - **Du, L.**, Li, Q., and Yu, P. (2020). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
-- 
+
 - **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
 
