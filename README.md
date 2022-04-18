@@ -38,7 +38,7 @@
 
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
-# Selected Publication on Operations Management
+# Selected Publications on Operations Management
 - **Du, L.**, Li, Q., and Yu, P. (2020). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
 - Li, Q., Yu, P. and **Du, L.**, (2021), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, forthcoming.
