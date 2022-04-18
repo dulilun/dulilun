@@ -34,14 +34,14 @@
 
 - **Du, L.** and Zhang, C. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
-- **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42, 4, 1262-1311
+- **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311
 
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 # Selected Publications on Operations Management
 - **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
 
-- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70, (2), 666-689.
+- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
 - **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
