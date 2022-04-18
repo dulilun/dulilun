@@ -1,5 +1,5 @@
 # Contact 
-- My personal website is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
+- My website at HKUST is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
 - Email: dulilun (at) ust (dot) hk
 
 # Bio
