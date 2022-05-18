@@ -1,3 +1,7 @@
+# Opennings 
+Postdoc / research associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
+
+
 # Contact 
 - My website at HKUST is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
 - Email: dulilun (at) ust (dot) hk
@@ -47,8 +51,6 @@
 
 
 
-# Opennings 
-Postdoc / research associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
 
 <!---
 dulilun/dulilun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
