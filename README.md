@@ -1,5 +1,5 @@
 # Opennings 
-Postdoc / research associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
+Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
 
 
 # Contact 
