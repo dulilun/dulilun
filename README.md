@@ -43,7 +43,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 # Selected Publications on Operations Management
-- **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Submitted.
+- **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](http://www.bm.ust.hk/isom/files/OM/FacultyPublications/LiQing/SeRecruiting_Sep_2020.pdf)", Under 3rd round of revision at Operations Research.
 
 - Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
