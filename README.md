@@ -26,7 +26,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 - Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
 - **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
-- 
+
 # Selected Publications on Statistics
 - Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2022). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
