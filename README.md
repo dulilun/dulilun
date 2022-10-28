@@ -13,7 +13,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Employment
-- Incoming Associate professor with tenure, Dapartment of Management Sciences, City University of Hong Kong, 2023--
+%- Incoming Associate professor with tenure, Dapartment of Management Sciences, City University of Hong Kong, 2023--
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-2023
 
 # Research Interests
