@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/fvx95jkua5th3YeThr" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/KIBERone-kiberone-kiber-kiber-one-fvx95jkua5th3YeThr">via GIPHY</a></p>
 </div>
 
 
