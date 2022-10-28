@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Opennings 
 Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
 
