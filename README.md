@@ -10,7 +10,6 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Contact 
-- My website at HKUST is: http://www.bm.ust.hk/isom/faculty-and-staff/directory/dulilun
 - Email: dulilun (at) ust (dot) hk
 
 # Bio
@@ -20,7 +19,8 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Employment
-- Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-present
+- Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-2023
+- Incoming Associate Professor (with tenure), Department of Management Sciences, City University of Hong Kong, 2023--
 
 # Research Interests
 - Large-Scale inference
