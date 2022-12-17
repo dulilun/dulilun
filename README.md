@@ -35,7 +35,8 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 - **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
 # Selected Publications on Statistics
-- Wang, J., **Du.**, L., Zou, C., and Wu, Z. (2022). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
+- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
+- Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2022). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
 - **Du, L.**, Guo, X., Sun, W, and Zou, C. (2022). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
