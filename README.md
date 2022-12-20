@@ -50,7 +50,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 - **Du, L.** and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference, 194, 1-14.
 
-- **Du, L.** and Zhang, C. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
+- **Du, L.** and Zhang, C. M. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
 - **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311
 
