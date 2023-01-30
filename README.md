@@ -19,7 +19,8 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Employment
-- Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-Present
+- Assistant Professor of ISOM, Hong Kong University of Science and Technology, August 2015-January 2023
+- Associate Professor of Management Sciences (with tenure), City University of Hong Kong, February 2023-
 
 
 # Research Interests
