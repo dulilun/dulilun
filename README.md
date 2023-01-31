@@ -10,7 +10,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Contact 
-- Email: dulilun0814 (at) gmail (dot) com
+- Email: dulilun (at) ust (dot) hk
 
 # Bio
 - PhD 2015, The University of Wisconsin-Madison, Statistics
