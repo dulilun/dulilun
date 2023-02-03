@@ -10,7 +10,7 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Contact 
-- Email: dulilun (at) ust (dot) hk
+- Email: lilundu (at) cityu (dot) edu (dot) hk
 
 # Bio
 - PhD 2015, The University of Wisconsin-Madison, Statistics
