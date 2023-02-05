@@ -5,8 +5,7 @@
 
 
 
-# Opennings 
-Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
+
 
 
 # Contact 
@@ -19,8 +18,9 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 
 
 # Employment
-- Assistant Professor of ISOM, Hong Kong University of Science and Technology, August 2015-January 2023
 - Associate Professor of Management Sciences (with tenure), City University of Hong Kong, February 2023-
+- Assistant Professor of ISOM, Hong Kong University of Science and Technology, August 2015-January 2023
+
 
 
 # Research Interests
@@ -58,7 +58,8 @@ Postdoc / research assistant/associate positions may be available. Applicants wi
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 
-
+# Opennings 
+Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
 
 
 
