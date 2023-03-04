@@ -28,14 +28,7 @@
 - Empirical Bayes
 - Interface between Statistics and Operations Management
 
-# Selected Publications on Operations Management
-- **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under the 3rd round review at Operations Research.
-
-- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
-
-- **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
-
-# Selected Publications on Statistics
+# Publications on Statistics
 - Yang, X. and **Du., L.** (2023). "Robust Multiple Testing under High Dimensioanl Factor Model", submitted.
 - Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
 - Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2022). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
@@ -57,6 +50,15 @@
 - **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311
 
 - **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
+
+
+# Publications on Operations Management
+- **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for Recruitment: High Volume, Random Yields, and Rigid Demand](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
+
+- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
+
+- **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
+
 
 
 # Opennings 
