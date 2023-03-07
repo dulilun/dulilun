@@ -18,7 +18,7 @@
 
 
 # Employment
-- Associate Professor of Management Sciences, City University of Hong Kong, 2023-
+- Associate Professor of Management Sciences (with tenure), City University of Hong Kong, 2023-
 - Assistant Professor of ISOM, Hong Kong University of Science and Technology, 2015-2023.
 
 
