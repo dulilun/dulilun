@@ -53,7 +53,7 @@
 
 
 # Publications on Operations Management
-- **Du, L.**, Li, Q., and Yu, P. (2022). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
+- **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
 
 - Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
