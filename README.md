@@ -29,7 +29,7 @@
 - Interface between Statistics and Operations Management
 
 # Publications on Statistics
-- Yang, X. and **Du., L.** (2023). "Robust Multiple Testing under High Dimensioanl Factor Model", submitted.
+- Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 - Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
 - Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
