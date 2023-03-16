@@ -29,17 +29,19 @@
 - Interface between Statistics and Operations Management
 
 # Publications on Statistics & Operations Management
-- **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
 
 - Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
-- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
+- 
+- **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
 
-- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
+- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
 
 - Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
+
 - **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
+- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
 - **Du, L.** and Hu, I. (2022), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, 117 (537), 334-347.
 
