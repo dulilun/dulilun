@@ -31,7 +31,7 @@
 # Publications on Statistics & Operations Management
 
 - Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
-- 
+
 - **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision at Operations Research.
 
 - Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", under revision.
