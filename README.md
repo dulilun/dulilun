@@ -6,7 +6,7 @@
 
 
 # Opennings 
-I am looking for students with strong background in probability / statistics to pusure a PhD at City University of Hong Kong! Please contact me with your CV if you are intersted in the position
+I am looking for students with strong background in probability / statistics to pusure a PhD at City University of Hong Kong! Please contact me with your CV if you are intersted in the position.
 
 
 
