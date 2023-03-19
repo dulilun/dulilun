@@ -5,6 +5,9 @@
 
 
 
+# Opennings 
+I am looking for talent student with strong math background to pusure a PhD at City University of Hong Kong! Please contact me with your CV if you are intersted in the position
+%Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed.% 
 
 
 
@@ -64,8 +67,7 @@
 
 
 
-# Opennings 
-Postdoc / research assistant/associate positions may be available. Applicants with strong background in probability / statistics and specialized in large-scale inference are particularly welcomed. 
+
 
 
 
