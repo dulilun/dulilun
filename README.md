@@ -32,14 +32,15 @@ I am looking for students with strong background in probability / statistics to 
 
 # Publications on Statistics & Operations Management
 
+- **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Chnage Detection", under revision.
+- 
 - Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
 - **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
 
-- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
-
 - Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
+- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
 
 - **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
