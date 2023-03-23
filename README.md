@@ -34,28 +34,28 @@ I am looking for students with strong background in probability / statistics to 
 
 1. **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Chnage Detection", under revision.
 
-14. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
+- Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
-13. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
+- **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
 
-12. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
+- Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
-11. Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
+- Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
 
-10. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
+- **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
-9. Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
+- Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
-8. **Du, L.** and Hu, I. (2022), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, 117 (537), 334-347.
+- **Du, L.** and Hu, I. (2022), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, 117 (537), 334-347.
 
 
-7. **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
+- **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
-6. Lan, W. and **Du, L.** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
+- Lan, W. and **Du, L.** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
 
-5. **Du, L.**, Lan, W., Luo, R., and Zhong, P. (2018). "Factor-Adjusted Multiple Testing of Correlations", Computational Statistics \& Data Analysis, 128, 34-47.
+- **Du, L.**, Lan, W., Luo, R., and Zhong, P. (2018). "Factor-Adjusted Multiple Testing of Correlations", Computational Statistics \& Data Analysis, 128, 34-47.
 
-4. **Du, L.** and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference, 194, 1-14.
+- **Du, L.** and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference, 194, 1-14.
 
 - **Du, L.** and Zhang, C. M. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
