@@ -40,7 +40,9 @@ I am looking for students with strong background in probability / statistics to 
 
 4. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
-5. Wang, Y. and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
+5. Wang, Y.[^1] and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming.
+
+[^1]: Yunlong Wang was my Research Assistant from 2016 to 2017.
 
 6. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
