@@ -49,7 +49,10 @@ I am looking for students with strong background in probability / statistics to 
 8. **Du, L.** and Hu, I. (2022), "An Empirical Bayes Method for Chi-Squared Data", Journal of American Statistical Association, 117 (537), 334-347.
 9. Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 10. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
-11. Wang, Y. [^1] and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. [^1]: Yunlong Wang was my Research Assistant in 2016-2017.
+11. Wang, Y. [^1] and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
+
+
+[^1]: Yunlong Wang was my Research Assistant in 2016-2017.
 
 
 
