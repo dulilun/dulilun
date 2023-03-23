@@ -57,11 +57,11 @@ I am looking for students with strong background in probability / statistics to 
 
 4. **Du, L.** and Zou, C. (2018). "On-line Control of False Discovery Rates for Multiple Streams", Journal of Statistical Planning and Inference, 194, 1-14.
 
-3. **Du, L.** and Zhang, C. M. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
+- **Du, L.** and Zhang, C. M. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
-2. **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311
+- **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311
 
-1. **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
+- **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
 
 
