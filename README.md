@@ -53,7 +53,8 @@ I am looking for students with strong background in probability / statistics to 
 
 5. **Du, L.**, Lan, W., Luo, R., and Zhong, P. (2018). "Factor-Adjusted Multiple Testing of Correlations", Computational Statistics \& Data Analysis, 128, 34-47.
 
-6. Lan, W. and **Du, L.** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
+6. Lan, W. and **Du, L.[^2]** (2019). "A Factor-Adjusted Multiple Testing Procedure with Application to Mutual Fund Selection", Journal of Business and Economic Statistics, 37, 147-157.
+[^2]: The corresponding author.
 
 7. **Du, L.** and Li, Q. (2020). "A Data-Driven Approach to High-Volume Recruitment: Application to Student Admission", Manufacturing and Service Operations Management, 22 (5), 942-957.
 
@@ -63,7 +64,7 @@ I am looking for students with strong background in probability / statistics to 
 
 10. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
 
-11. Wang, Y. [^1] and **Du., L.** (2022). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
+11. Wang, Y. [^1] and **Du., L.** (2023). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
 
 
 [^1]: Yunlong Wang was my Research Assistant in 2016-2017.
