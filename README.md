@@ -31,7 +31,7 @@ I am looking for students with strong background in probability / statistics to 
 - Interface between Statistics and Operations Management
 
 # Manuscipts Under Review
-1. **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Chnage Detection", under revision.
+1. **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Change Detection", under revision.
 
 2. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
