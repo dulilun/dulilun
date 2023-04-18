@@ -31,13 +31,13 @@ I am looking for students with strong background in probability / statistics to 
 - Interface between Statistics and Operations Management
 
 # Manuscipts Under Review
-4. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
+1. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
-3. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
+2. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
 
-6. **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Change Detection", under revision.
+3. **Du, L.** and Wen, M. (2023). "False Disconvery Approach to Dynamic Change Detection", under revision.
 
-2. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
+4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
 5. Han, Y., Zou, C. **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
 
