@@ -39,7 +39,7 @@ I am looking for students with strong background in probability / statistics to 
 
 4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
-5. Han, Y., Zou, C. **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
+5. Han, Y.^[2], Zou, C. **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
 
 
 
@@ -67,13 +67,14 @@ I am looking for students with strong background in probability / statistics to 
 
 9. Li, Q., Yu, P. and **Du, L.**, (2022), "Separation of Perishable Inventories in Offline Retailing through Transshipment", Operations Research, 70 (2), 666-689.
 
-10. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2021). "[False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation](https://doi.org/10.1080/01621459.2021.1945459)", Journal of American Statistical Association, forthcoming.
+10. **Du, L.**, Guo, X., Sun, W, and Zou, C. (2023). "False Discovery Rate Control Under General Dependence By Symmetrized Data Aggregation", Journal of American Statistical Association, 118 (541), 607-621.
 
 
 11. Wang, Y. [^1] and **Du., L.** (2023). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
 
 
 [^1]: Yunlong Wang was my Research Assistant in 2016-2017.
+[^2]: Yixin Han was my Postdoct in 2022-2023.
 
 
 
