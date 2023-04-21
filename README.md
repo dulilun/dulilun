@@ -30,7 +30,7 @@ I am looking for students with strong background in probability / statistics to 
 - Empirical Bayes
 - Interface between Statistics and Operations Management
 
-# Manuscipts Under Review
+# Manuscripts Under Review
 1. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
 2. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/files/OM/FacultyPublications/LiQing/SeRecruiting_August_2022.pdf)", Under revision for the 4th round review at Operations Research.
