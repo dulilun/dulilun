@@ -39,7 +39,7 @@ I am looking for students with strong background in probability / statistics to 
 
 4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
-5. Han, Y.[^3], Zou, C. **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
+5. Han, Y.[^3], Zou, C., **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
 [^3]: Yixin Han was my Postdoct in 2022-2023.
 
 
