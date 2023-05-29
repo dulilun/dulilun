@@ -20,8 +20,7 @@ I am looking for students with strong background in probability / statistics to 
 
 
 # Employment
-- Tenured Associate Professor of Management Sciences, City University of Hong Kong, 02/2023-
-- Tenure Track Assistant Professor of ISOM, Hong Kong University of Science and Technology, 08/2015-01/2023.
+- Associate Professor (with tenure) of Management Sciences, City University of Hong Kong.
 
 
 
