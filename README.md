@@ -71,7 +71,7 @@ I am looking for students with strong background in probability / statistics to 
 11. Wang, Y. [^1] and **Du., L.** (2023). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
 [^1]: Yunlong Wang was my Research Assistant in 2016-2017.
 
-12. **Du, L.** and Wen, M.[^4] (2023). "False Discovery Rate Approach to Dynamic Change Detection", Journal of Multivariate Analysis.
+12. **Du, L.** and Wen, M.[^4] (2023). "False Discovery Rate Approach to Dynamic Change Detection", Journal of Multivariate Analysis, minor revision.
 [^4]: Mengtao Wen was my Research Assistant in 2021.
 
 
