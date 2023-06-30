@@ -34,7 +34,6 @@ I am looking for students with strong background in probability / statistics to 
 
 2. **Du, L.**, Li, Q., and Yu, P. (2023). "A Sequential Model for High Volume Recruitment under Random Yields", Unde revision at Operations Research.
 
-3. **Du, L.** and Wen, M. (2023). "False Discovery Rate Approach to Dynamic Change Detection", under revision.
 
 4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
@@ -72,6 +71,8 @@ I am looking for students with strong background in probability / statistics to 
 11. Wang, Y. [^1] and **Du., L.** (2023). "Change-detection-assisted multiple testing for spatiotemporal data", Journal of Statistical Planning and Inference, forthcoming. 
 [^1]: Yunlong Wang was my Research Assistant in 2016-2017.
 
+12. **Du, L.** and Wen, M.[^3] (2023). "False Discovery Rate Approach to Dynamic Change Detection", Journal of Multivariate Analysis.
+[^2]: Mengtao Wen was my Research Assistant in 2021.
 
 
 
