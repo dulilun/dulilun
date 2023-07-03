@@ -43,7 +43,7 @@ I am looking for students with strong background in probability / statistics to 
 
 
 
-# Publications on Statistics & Operations Management
+# Publications on Statistics & Operations
 
 1. **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
