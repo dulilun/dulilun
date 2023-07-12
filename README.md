@@ -47,7 +47,7 @@ I am looking for students with strong background in probability / statistics to 
 
 1. **Du, L.**, Zou, C. and Wang, Z. (2011). "Nonparametric Regression Function Estimation for Errors-in-Variables Models with Validation Data", Statistica Sinica, 21, 1093--1113.
 
-2. **Du, L.**, and Zhang, C. M.[^#] (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311.
+2. **Du, L.**, and Zhang, C. M. (2014). "Single-index Modulated Multiple Testing", Annals of Statistics, 42 (4), 1262-1311.
 
 3. **Du, L.** and Zhang, C. M. (2017). "Estimation of False Discovery Proportion in Multiple Testing: from Normal to Chi-Squared Test Statistics", Electronic Journal of Statistics, 11, 1048-1091.
 
