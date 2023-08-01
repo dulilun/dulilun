@@ -32,7 +32,7 @@ I am looking for students with strong background in probability / statistics to 
 # Manuscripts Under Review
 1. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
-2. **Du, L.**, Li, Q., and Yu, P. (2023). "A Sequential Model for High Volume Recruitment under Random Yields", Unde revision at Operations Research.
+2. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/sites/isom/files/2023-07/SeRecruiting_Apr_2023.pdf)", Unde revision at Operations Research.
 
 
 4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
