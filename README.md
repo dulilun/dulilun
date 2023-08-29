@@ -32,9 +32,6 @@ I am looking for students with strong background in probability / statistics to 
 # Manuscripts Under Review
 1. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
 
-2. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/sites/isom/files/2023-07/SeRecruiting_Apr_2023.pdf)", Unde revision at Operations Research.
-
-
 4. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
 
 5. Han, Y.[^3], Zou, C., **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
@@ -73,6 +70,8 @@ I am looking for students with strong background in probability / statistics to 
 
 12. **Du, L.** and Wen, M.[^4] (2023). "[False Discovery Rate Approach to Dynamic Change Detection](https://www.sciencedirect.com/science/article/pii/S0047259X23000702)", Journal of Multivariate Analysis, accepted.
 [^4]: Mengtao Wen was my Research Assistant in 2022.
+
+13. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/sites/isom/files/2023-07/SeRecruiting_Apr_2023.pdf)", accepted by Operations Research.
 
 
 
