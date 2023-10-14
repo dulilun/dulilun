@@ -65,7 +65,7 @@
 12. **Du, L.** and Wen, M.[^4] (2023). "[False Discovery Rate Approach to Dynamic Change Detection](https://www.sciencedirect.com/science/article/pii/S0047259X23000702)", Journal of Multivariate Analysis, accepted.
 [^4]: Mengtao Wen was my Research Assistant in 2022.
 
-13. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://isom.hkust.edu.hk/sites/isom/files/2023-07/SeRecruiting_Apr_2023.pdf)", accepted by Operations Research.
+13. **Du, L.**, Li, Q., and Yu, P. (2023). "[A Sequential Model for High Volume Recruitment under Random Yields](https://doi.org/10.1287/opre.2021.0562)", accepted by Operations Research.
 
 
 
