@@ -31,7 +31,7 @@
 3. Han, Y.[^3], Zou, C., **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
 [^3]: Yixin Han was my Postdoct in 2022-2023.
 
-4. Ma, W., **Du, L.**, Xia, D., and Yuan, M. (2023). "[Multiple Testing of Linear Forms for Noisy Matrix Completion](Multiple Testing of Linear Forms for Noisy Matrix Completion)", Manucript.
+4. Ma, W., **Du, L.**, Xia, D., and Yuan, M. (2023). "[Multiple Testing of Linear Forms for Noisy Matrix Completion](https://arxiv.org/abs/2312.00305)", Manucript.
 
 
 
