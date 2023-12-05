@@ -22,7 +22,3 @@
 - Large-Scale inference
 - Empirical Bayes
 - Interface between Statistics and Operations Management
-
-
-# Personal website
-https://www.cb.cityu.edu.hk/staff/lilundu
