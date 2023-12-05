@@ -23,15 +23,6 @@
 - Empirical Bayes
 - Interface between Statistics and Operations Management
 
-# Manuscripts Under Review
-1. Wang, J., **Du., L.**, Zou, C., and Wu, Z. (2021). "[Dynamic Statistical Inference in Massive Datastreams](https://arxiv.org/abs/2111.01339#)", submitted.
-
-2. Yang, X. and **Du., L.** (2023). "[Robust Multiple Testing under High Dimensioanl Factor Model](https://arxiv.org/abs/2303.07631)", submitted.
-
-3. Han, Y.[^3], Zou, C., **Du., L.**, and Wang, Z. (2023). "CAST: A Covariate-Assisted Multiple Testing Framework with Sample Splitting", Submitted.
-[^3]: Yixin Han was my Postdoct in 2022-2023.
-
-4. Ma, W., **Du, L.**, Xia, D., and Yuan, M. (2023). "[Multiple Testing of Linear Forms for Noisy Matrix Completion](https://arxiv.org/abs/2312.00305)", Manucript.
 
 
 
