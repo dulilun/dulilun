@@ -22,3 +22,6 @@
 - Large-Scale inference
 - Empirical Bayes
 - Interface between Statistics and Operations Management
+
+# R packages
+- SDA filter for multiple testing under dependnce. see [SDA](https://github.com/dulilun/sdafilter).
