@@ -24,4 +24,6 @@
 - Interface between Statistics and Operations Management
 
 # R packages
-- SDA filter for multiple testing under dependnce. see [SDA](https://github.com/dulilun/sdafilter).
+- SDA filter for multiple testing under dependnce; see [SDA](https://github.com/dulilun/sdafilter).
+- EBCHS for Empirical Bayes estiamte of noncentrality parameter; see [EBCHS](EBCHSEBCHS).
+ 
