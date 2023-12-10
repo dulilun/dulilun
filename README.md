@@ -5,28 +5,31 @@
 
 
 # Contact 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
+<h1 align="center">Welcome to My Page</h1>
+
+## Contact Information
 - Email: lilundu (at) cityu (dot) edu (dot) hk
 
-# Bio
-- PhD 2015, The University of Wisconsin-Madison, Statistics
-- M.S. 2010, Nankai University, Statistics
-- B.S. 2007, Nankai University, Mathematics
+## Biography
+- PhD in Statistics, 2015, The University of Wisconsin-Madison
+- M.S. in Statistics, 2010, Nankai University
+- B.S. in Mathematics, 2007, Nankai University
 
+## Current Position
+- Tenured Associate Professor of Management Sciences, City University of Hong Kong
 
-# Employment
-- Associate Professor (with tenure) of Management Sciences, City University of Hong Kong.
-
-
-
-# Research Interests
-- Large-Scale inference
+## Research Interests
+- Large-Scale Inference
 - Empirical Bayes
-- Interface between Statistics and Operations Management
+- Intersection of Statistics and Operations Management
 
-# Rearch Paper
-See [Google Scholar](https://scholar.google.com/citations?user=4on4dj4AAAAJ&hl=en).
+## Research Papers
+For a comprehensive list of my research papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=4on4dj4AAAAJ&hl=en) profile.
 
-# R packages
-- SDA filter for multiple testing under dependnce; see [SDA](https://github.com/dulilun/sdafilter).
-- EBCHS for Empirical Bayes estiamte of noncentrality parameter; see [EBCHS](EBCHSEBCHS).
- 
+## R Packages
+- [SDA filter](https://github.com/dulilun/sdafilter): A tool for multiple testing under dependence
+- [EBCHS](EBCHSEBCHS): An Empirical Bayes estimator of non-centrality parameter
