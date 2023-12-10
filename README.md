@@ -23,6 +23,9 @@
 - Empirical Bayes
 - Interface between Statistics and Operations Management
 
+# Rearch Paper
+See [Google Scholalr](https://scholar.google.com/citations?user=4on4dj4AAAAJ&hl=en).
+
 # R packages
 - SDA filter for multiple testing under dependnce; see [SDA](https://github.com/dulilun/sdafilter).
 - EBCHS for Empirical Bayes estiamte of noncentrality parameter; see [EBCHS](EBCHSEBCHS).
