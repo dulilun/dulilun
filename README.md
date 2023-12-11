@@ -25,4 +25,4 @@ For a comprehensive list of my research papers, please visit my [Google Scholar]
 
 ## R Packages
 - [SDA filter](https://github.com/dulilun/sdafilter): A tool for multiple testing under dependence
-- [EBCHS](EBCHSEBCHS): An Empirical Bayes estimator of non-centrality parameter
+- [EBCHS](https://github.com/dulilun/EBCHS): An Empirical Bayes estimator of non-centrality parameter
