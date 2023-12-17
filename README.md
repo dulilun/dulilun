@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
-<img src="/dulilun/OneDrive\ -\ City\ University\ of\ Hong\ Kong/FDR.wedp" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
 <h1 align="center">Welcome to My Page</h1>
 
 ## Contact Information
