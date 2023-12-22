@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/fBMhjENQiDbb00Kh85" width="200"/>
+  <img src="https://giphy.com/clips/complex-link-rhett-snacked-UCZvAK8VCpRRdGNSH0" width="200"/>
 </div>
 
 
