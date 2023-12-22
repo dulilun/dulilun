@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://beaverton-my.sharepoint.com/:u:/r/personal/lilundu_um_cityu_edu_hk/Documents/FDR.webp?csf=1&web=1&e=gBjMcW
+" width="200"/>
 </div>
+
 
 <h1 align="center">Welcome to My Page</h1>
 
