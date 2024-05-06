@@ -16,12 +16,12 @@
 - B.S. in Mathematics, 2007, Nankai University
 
 ## Current Position
-- Tenured Associate Professor of Management Sciences, City University of Hong Kong
+- Associate Professor of Management Sciences, College of Business, City University of Hong Kong
 
 ## Research Interests
 - Large-Scale Inference
 - Empirical Bayes
-- Intersection of Statistics and Operations Management
+- Intersection of Statistics and Operations Analytics
 
 ## Research Papers
 For a comprehensive list of my research papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=4on4dj4AAAAJ&hl=en) profile.
