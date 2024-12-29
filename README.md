@@ -16,7 +16,7 @@
 - B.S. in Mathematics, 2007, Nankai University
 
 ## Current Position
-- Associate Professor of Management Sciences, College of Business, City University of Hong Kong
+- Associate Professor of Decision Analytics and Operations, College of Business, City University of Hong Kong
 
 ## Research Interests
 - Large-Scale Inference
