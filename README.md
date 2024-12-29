@@ -13,7 +13,7 @@
 ## Biography
 - PhD in Statistics, 2015, The University of Wisconsin-Madison
 - M.S. in Statistics, 2010, Nankai University
-- B.S. in Mathematics, 2007, Nankai University
+- B.S. in Mathematics (Chern Class), 2007, Nankai University
 
 ## Current Position
 - Associate Professor of Decision Analytics and Operations, College of Business, City University of Hong Kong 2023-present
