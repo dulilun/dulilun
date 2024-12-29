@@ -22,7 +22,7 @@
 - Large-Scale Inference
 - Empirical Bayes
 - Factor Models
-- Business Analytics
+- Operations Analytics
 - Asset Pricing and Selection
 
 ## Research Papers
