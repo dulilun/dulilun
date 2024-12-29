@@ -23,7 +23,7 @@
 - Empirical Bayes
 - Factor Models
 - Business Analytics
-- 
+- Asset Pricing and Selection
 
 ## Research Papers
 For a comprehensive list of my research papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=4on4dj4AAAAJ&hl=en) profile.
