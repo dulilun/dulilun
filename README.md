@@ -16,7 +16,8 @@
 - B.S. in Mathematics, 2007, Nankai University
 
 ## Current Position
-- Associate Professor of Decision Analytics and Operations, College of Business, City University of Hong Kong
+- Associate Professor of Decision Analytics and Operations, College of Business, City University of Hong Kong 2023-present
+- Assistant Professor of ISOM, School of Business and Management, Hong Kong University of Science and Technoloy 2015-2023
 
 ## Research Interests
 - Large-Scale Inference
