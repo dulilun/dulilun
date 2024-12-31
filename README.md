@@ -32,3 +32,4 @@ For a comprehensive list of my research papers, please visit my [Google Scholar]
 ## R Packages
 - [SDA filter](https://github.com/dulilun/sdafilter): A tool for multiple testing under dependence
 - [EBCHS](https://github.com/dulilun/EBCHS): An Empirical Bayes estimator of non-centrality parameter
+- [SIMfilter](https://github.com/dulilun/SIMfilter): Single Index Modulated Multiple Testing
